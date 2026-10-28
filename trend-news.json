@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-10-28T16:12:57.631704+00:00",
+  "updatedAt": "2026-10-28T16:12:57.631704+00:00",
+  "partial": false,
+  "sources": [
+    {
+      "name": "Dezeen",
+      "url": "https://www.dezeen.com/tag/colour/feed/",
+      "ok": true,
+      "fetchedAt": "2026-10-28T16:12:57.631704+00:00"
+    },
+    {
+      "name": "Design Milk",
+      "url": "https://design-milk.com/category/interior-design/feed/",
+      "ok": true,
+      "fetchedAt": "2026-10-28T16:12:57.631704+00:00"
+    }
+  ],
+  "items": [
+    {
+      "title": "Benjamin Moore’s 2027 Color of the Year Finds Staying Power in Green",
+      "url": "https://design-milk.com/benjamin-moore-color-of-the-year-2027-webster-green/",
+      "source": "Design Milk",
+      "publishedAt": "2026-10-21T16:44:49+00:00"
+    },
+    {
+      "title": "6 Tile Trends Shaping Design From Cersaie 2026",
+      "url": "https://design-milk.com/cersaie-2026-tile-trends/",
+      "source": "Design Milk",
+      "publishedAt": "2026-10-20T23:30:32+00:00"
+    },
+    {
+      "title": "Laminex celebrates Australian heritage with nature-informed colour collection",
+      "url": "https://www.dezeen.com/2026/10/09/laminex-colour-collection-2027/",
+      "source": "Dezeen",
+      "publishedAt": "2026-10-09T04:00:08+00:00"
+    },
+    {
+      "title": "Veronica Mishaan carries out \"successful juxtaposition\" of patterns in Bogotá penthouse",
+      "url": "https://www.dezeen.com/2026/09/15/veronica-mishaan-bogota-colombia-penthouse/",
+      "source": "Dezeen",
+      "publishedAt": "2026-09-15T18:00:15+00:00"
+    },
+    {
+      "title": "Chromatic Architecture authors pick six of the world's best colourful buildings",
+      "url": "https://www.dezeen.com/2026/09/15/chromatic-architecture-worlds-best-colourful-buildings/",
+      "source": "Dezeen",
+      "publishedAt": "2026-09-15T10:00:19+00:00"
+    },
+    {
+      "title": "\"Progressive spirit\" of Space Age interiors informs Barcelona cocktail bar",
+      "url": "https://www.dezeen.com/2026/06/28/barcelona-cocktail-bar-isern-serra-space-age-interiors/",
+      "source": "Dezeen",
+      "publishedAt": "2026-06-28T05:00:44+00:00"
+    }
+  ]
+}
